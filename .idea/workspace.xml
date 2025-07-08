@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c63f1955-01c4-4d5f-914c-00a17665a3f7" name="Changes" comment="&quot;TP 06 autoformation tableaux, boucles et conditions (suite)&quot;">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/approche-imperative.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/algorithmie/CalculMoyenne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/algorithmie/RechercheMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/algorithmie/RechercheMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/algorithmie/SommeDeTableaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/algorithmie/SommeDeTableauxDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/AffichageInverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/AffichagePartiel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/CalculMoyenne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/CaracteresConsecutifs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/ComparaisonTableau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/FabriquerMur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/FirstLast6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InteractifChiffresSuivants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InteractifFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InteractifPlusGrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InteractifPlusMoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InteractifSommeArithmetique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InteractifStockageNombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InteractifTableMult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InteractifTantQue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/Interfactif21Batons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/InversionContenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/NombreParfait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/RechercheMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/RechercheMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/RechercheSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/Rotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/SommeDeTableaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/tp07AutoFormationBouclesTableauxConditions/algorithmie/SommeDeTableauxDiff.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zXeS7tmjcOAzs0ZJrLoGlNx70n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AffichageIdentite.executor": "Run",
+    "Application.AffichageInverse.executor": "Run",
+    "Application.AffichagePartiel.executor": "Run",
+    "Application.AffichageSuite.executor": "Run",
+    "Application.CalculMoyenne.executor": "Run",
+    "Application.CaracteresConsecutifs.executor": "Run",
+    "Application.ComparaisonTableau.executor": "Run",
+    "Application.DeclarationApp.executor": "Run",
+    "Application.ExerciceDeclarationTab.executor": "Run",
+    "Application.ExerciceTableauChaines.executor": "Run",
+    "Application.FabriquerMur.executor": "Run",
+    "Application.FirstLast6.executor": "Run",
+    "Application.InteractifChiffresSuivants.executor": "Run",
+    "Application.InteractifFibonacci.executor": "Run",
+    "Application.InteractifPlusGrand.executor": "Run",
+    "Application.InteractifPlusMoins.executor": "Run",
+    "Application.InteractifSommeArithmetique.executor": "Run",
+    "Application.InteractifStockageNombre.executor": "Run",
+    "Application.InteractifTableMult.executor": "Run",
+    "Application.InteractifTantQue.executor": "Run",
+    "Application.Interfactif21Batons.executor": "Run",
+    "Application.InversionContenu.executor": "Run",
+    "Application.NombreParfait.executor": "Run",
+    "Application.RechercheMax.executor": "Run",
+    "Application.RechercheMin.executor": "Run",
+    "Application.RechercheSecond.executor": "Run",
+    "Application.Rotation.executor": "Run",
+    "Application.SommeDeTableaux.executor": "Run",
+    "Application.SommeDeTableauxDiff.executor": "Run",
+    "Application.fr.algorithmie.AffichageInverse.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Interfactif21Batons">
+    <configuration name="InteractifFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.InteractifFibonacci" />
+      <module name="approche-imperative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InteractifPlusGrand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.InteractifPlusGrand" />
+      <module name="approche-imperative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InteractifPlusMoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.InteractifPlusMoins" />
+      <module name="approche-imperative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InteractifStockageNombre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.InteractifStockageNombre" />
+      <module name="approche-imperative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interfactif21Batons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.Interfactif21Batons" />
+      <module name="approche-imperative" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.tp07AutoFormationBouclesTableauxConditions.algorithmie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Interfactif21Batons" />
+        <item itemvalue="Application.InteractifFibonacci" />
+        <item itemvalue="Application.InteractifStockageNombre" />
+        <item itemvalue="Application.InteractifPlusMoins" />
+        <item itemvalue="Application.InteractifPlusGrand" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c63f1955-01c4-4d5f-914c-00a17665a3f7" name="Changes" comment="" />
+      <created>1751881841760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751881841760</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;TP 03 Première application&quot;">
+      <option name="closed" value="true" />
+      <created>1751883350823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751883350823</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;TP 05 tableaux&quot;">
+      <option name="closed" value="true" />
+      <created>1751892460544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751892460544</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;TP 06 autoformation tableaux, boucles et conditions&quot;">
+      <option name="closed" value="true" />
+      <created>1751897226453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751897226453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;TP 06 autoformation tableaux, boucles et conditions (suite)&quot;">
+      <option name="closed" value="true" />
+      <created>1751898410513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751898410513</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;TP 03 Première application&quot;" />
+    <MESSAGE value="&quot;TP 05 tableaux&quot;" />
+    <MESSAGE value="&quot;TP 06 autoformation tableaux, boucles et conditions&quot;" />
+    <MESSAGE value="&quot;TP 06 autoformation tableaux, boucles et conditions (suite)&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;TP 06 autoformation tableaux, boucles et conditions (suite)&quot;" />
+  </component>
+</project>
